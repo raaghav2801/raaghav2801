@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Web Development and App Dev Projects
 - 📫 How to reach me - itraaghav@gmail.com
+- Also, I am single 👀
 
 <!---
 raaghav2801/raaghav2801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
